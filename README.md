@@ -35,17 +35,6 @@ natural_deep_sites.csv: Sites meeting the -18m depth requirement with high hub s
 
 dbscan_clusters.csv: Grouped coordinates showing regional hotspots near references like Minicoy, Colombo, and Port Blair.
 
-Example Top Sites
-According to the latest run, some of the highest-ranked locations are found near:
-
-Minicoy (Zone A/B)
-
-Colombo (Zone B)
-
-Eight Degree Channel (Zone B)
-
-Great Nicobar — Galathea Bay (Zone A)
-
 📈 Visual Output (h2_hub_indian_coast.pdf)
 The pipeline generates visual summaries including:
 
